@@ -6,10 +6,10 @@ namespace Users_CORE.Configuration
 {
     public static class ConnectionStrings
     {
-        public static string LocalServer = "ZKvO+FHjoZKEEE76jdbyAnEqZ+A9ffaZ6Z02Yf8iN0BJo1Dk4I2CysY6Ho+5PPjZA/Biz0LT9QT0yjeF7o5GAhw6mWdUs+9tAmXgM4tuhBs/Lc7N7zJoRhXkvXLO2zv8cO8KAbOxKK0n29Sx5WxeA4FtZIdV0Exd8a6R427kE1utvwCDBSZzGNZZUQjnm83+";
+        public static string LocalServer = "ZKvO+FHjoZKEEE76jdbyAsyu4Su4tkIwxW8byPwb4Bk3AXsR9dwqIjhqhcnm9PHV6OJ7nF1utDVY7Nuxd4MCRsMIu1kEEQbQnrcuRQdV5WRkVa9XJ8CyAdbfFAvehmJdeT7ognpKVRtLM+x2jOwEIojd110OKvr9Vz5/0vIY62gDNmQ9UnD1favs9ZrmjNpNbdVVWGq9kOqZeJ1cWyyOzWDZgWPxOxjWwjh16a6qchRUeTtvj4nN9OxRvJXyZrLX";
 
-        public static string CloudServer = "0ucggn4XvBzsC2baApwk56BXfM3k6xah5Mm7QQSVoKCXsn9a2NT+WRJL5Fn/oLAGe8dXh62W/hJPAh4kUEP5Ghk1BD3d3YhIJ0gff73PB971Pw1hvbx8balkoPHhFNORrd+CZYiJaC0fcIFtjI1oAKcUNWPx7jpn2ffRLhvwk/nxitFie0eyomHNml49Hk2JctKaQrv33h2aSer2ykFAt+Uths1uSzUMqwGQgeMyVIKg7a6Yr02AVkLa/Cfn3wRw2vYMT19S5dN2cIYHze/hE2Czj2GCaSaKSFjc9qA54sqzbK7nG1OIlhJ+qXL95tlq59YqHzuc8SWE9IhQg3Xf+TrhPAjYV+ODDsypZ17irQste5rEeQiehdIpMDFhugGICiFcIkoJksFUE5F7+7pVY8NEF9AaBkVy0OYXGgqr8e9DqJy9Ltqtm97m/IFpvdWq+SSOxn+2ahwI7taDfsprvahPIvinslTm46O8Hgo2IcSDAMUxuCYqkO+ZfTzKt34xm9M6HLKS06Q88ggK7Dr5mth4Q7YJbCPiTMXCDzlIDriNzhZZEFB5tS6APmp5UKnXVsvxxgZMF0d+hzKE3Ej8GVvk4e8kWowiGwEqx/HmJ6qQYnsCKu4Ie5e7J+Cr+Hws";
+        public static string CloudServer = "";
 
-        public static string SecretKey = "SPCM8455ArgXtg8FUTr8fpnvdQ5f0jaYXvnUfcdEeNTJmQHO8GEcJFr9uOqlwDZO";
+        public static string SecretKey = "";
     }
 }

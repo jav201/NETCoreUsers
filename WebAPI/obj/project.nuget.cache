@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g+Ebnv/sGYLi39VqvVNlEGtvhT73T3HreMP27cT5rogx4waaha2rlbkd9PO5ZiWrjfgexWprVBCCgaLNwrj6XA==",
+  "dgSpecHash": "Htl7Nt18Q3OUw2bCoc5hEcSs8M0c5WoT2gPgNI+lke1jLFGVFalBMZ8lkTLl2lr0AoDz8phIOebry8SnUMFqkQ==",
   "success": true,
-  "projectFilePath": "D:\\MasterProjects\\NetTech\\CoreUsers_MTWD21\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "D:\\MasterProjects\\NetTech\\NETCoreUsersTarea\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jjgh8\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\jjgh8\\.nuget\\packages\\core.connection\\1.0.3\\core.connection.1.0.3.nupkg.sha512",

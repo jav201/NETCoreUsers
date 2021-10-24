@@ -22,3 +22,15 @@ D:\MasterProjects\NetTech\CoreUsers_MTWD21\Users_CORE\obj\Debug\net6.0\Users_COR
 D:\MasterProjects\NetTech\CoreUsers_MTWD21\Users_CORE\obj\Debug\net6.0\Users_CORE.dll
 D:\MasterProjects\NetTech\CoreUsers_MTWD21\Users_CORE\obj\Debug\net6.0\ref\Users_CORE.dll
 D:\MasterProjects\NetTech\CoreUsers_MTWD21\Users_CORE\obj\Debug\net6.0\Users_CORE.pdb
+D:\MasterProjects\NetTech\NETCoreUsersTarea\Users_CORE\bin\Debug\net6.0\Users_CORE.deps.json
+D:\MasterProjects\NetTech\NETCoreUsersTarea\Users_CORE\bin\Debug\net6.0\Users_CORE.dll
+D:\MasterProjects\NetTech\NETCoreUsersTarea\Users_CORE\bin\Debug\net6.0\ref\Users_CORE.dll
+D:\MasterProjects\NetTech\NETCoreUsersTarea\Users_CORE\bin\Debug\net6.0\Users_CORE.pdb
+D:\MasterProjects\NetTech\NETCoreUsersTarea\Users_CORE\obj\Debug\net6.0\Users_CORE.csproj.AssemblyReference.cache
+D:\MasterProjects\NetTech\NETCoreUsersTarea\Users_CORE\obj\Debug\net6.0\Users_CORE.GeneratedMSBuildEditorConfig.editorconfig
+D:\MasterProjects\NetTech\NETCoreUsersTarea\Users_CORE\obj\Debug\net6.0\Users_CORE.AssemblyInfoInputs.cache
+D:\MasterProjects\NetTech\NETCoreUsersTarea\Users_CORE\obj\Debug\net6.0\Users_CORE.AssemblyInfo.cs
+D:\MasterProjects\NetTech\NETCoreUsersTarea\Users_CORE\obj\Debug\net6.0\Users_CORE.csproj.CoreCompileInputs.cache
+D:\MasterProjects\NetTech\NETCoreUsersTarea\Users_CORE\obj\Debug\net6.0\Users_CORE.dll
+D:\MasterProjects\NetTech\NETCoreUsersTarea\Users_CORE\obj\Debug\net6.0\ref\Users_CORE.dll
+D:\MasterProjects\NetTech\NETCoreUsersTarea\Users_CORE\obj\Debug\net6.0\Users_CORE.pdb

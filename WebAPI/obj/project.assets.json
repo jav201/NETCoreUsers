@@ -1783,11 +1783,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MasterProjects\\NetTech\\CoreUsers_MTWD21\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "D:\\MasterProjects\\NetTech\\NETCoreUsersTarea\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "D:\\MasterProjects\\NetTech\\CoreUsers_MTWD21\\WebAPI\\WebAPI.csproj",
+      "projectPath": "D:\\MasterProjects\\NetTech\\NETCoreUsersTarea\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\jjgh8\\.nuget\\packages\\",
-      "outputPath": "D:\\MasterProjects\\NetTech\\CoreUsers_MTWD21\\WebAPI\\obj\\",
+      "outputPath": "D:\\MasterProjects\\NetTech\\NETCoreUsersTarea\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jjgh8\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1805,8 +1805,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\MasterProjects\\NetTech\\CoreUsers_MTWD21\\Users_CORE\\Users_CORE.csproj": {
-              "projectPath": "D:\\MasterProjects\\NetTech\\CoreUsers_MTWD21\\Users_CORE\\Users_CORE.csproj"
+            "D:\\MasterProjects\\NetTech\\NETCoreUsersTarea\\Users_CORE\\Users_CORE.csproj": {
+              "projectPath": "D:\\MasterProjects\\NetTech\\NETCoreUsersTarea\\Users_CORE\\Users_CORE.csproj"
             }
           }
         }
